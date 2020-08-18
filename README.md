@@ -18,6 +18,6 @@ untuk task 2
 3. Istall axios : npm i axios
 4. Run file pada terminal dengan menuliskan 'node task2.js'
 
-untuk tas 3
+untuk task 3
 1. Download file
 2. Buka file 'index.html' pada browser
